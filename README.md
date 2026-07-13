@@ -51,23 +51,31 @@ expense-tracker/
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/2.login.png)
+
+---
 
 ### Registration Page
 
-![Register](screenshots/register.png)
+![Registration](screenshots/1.register.png)
+
+---
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/3.dashboard.png)
+
+---
 
 ### Add Transaction
 
-![Transaction](screenshots/addTransaction.png)
+![Add Transaction](screenshots/4.addTransaction.png)
+
+---
 
 ### Transaction History
 
-![History](screenshots/transactionHistory.png)
+![Transaction History](screenshots/5.transactionHistory.png)
 
 ---
 
