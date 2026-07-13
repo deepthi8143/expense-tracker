@@ -57,7 +57,7 @@ expense-tracker/
 
 ### Registration Page
 
-![Registration](screenshots/1.register.png)
+![Registration](expense-tracker/screenshots/1.register.png)
 
 ---
 
