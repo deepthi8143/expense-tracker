@@ -50,22 +50,19 @@ expense-tracker/
 ## 📸 Screenshots
 
 ### Login Page
-[📷 View Login Screenshot](expense-tracker/screenshorts/2.login.png)
+[📷 View Login Screenshot](expense-tracker/screenshots/2.login.png)
 
 ### Registration Page
-[📷 View Registration Screenshot](expense-tracker/screenshorts/1.register.png)
+[📷 View Registration Screenshot](expense-tracker/screenshots/1.register.png)
 
 ### Dashboard
-[📷 View Dashboard Screenshot](expense-tracker/screenshorts/3.dashboard.png)
+[📷 View Dashboard Screenshot](expense-tracker/screenshots/3.dashboard.png)
 
 ### Add Transaction
-[📷 View Add Transaction Screenshot](expense-tracker/screenshorts/4.addTransaction.png)
+[📷 View Add Transaction Screenshot](expense-tracker/screenshots/4.addTransaction.png)
 
 ### Transaction History
-[📷 View Transaction History Screenshot](expense-tracker/screenshorts/5.transactionHistory.png)
-
-### Expense Chart
-[📷 View Expense Chart Screenshot](expense-tracker/screenshorts/6.chart.png)
+[📷 View Transaction History Screenshot](expense-tracker/screenshots/5.transactionHistory.png)
 
 ---
 
