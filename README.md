@@ -51,19 +51,19 @@ expense-tracker/
 
 ### Login Page
 
-![Login](screenshots/2.login.png)
+![Login](screenshots/2.login)
 
 ---
 
 ### Registration Page
 
-![Registration](expense-tracker/screenshots/1.register.png)
+![Registration](expense-tracker/screenshots/1.register)
 
 ---
 
 ### Dashboard
 
-![Dashboard](screenshots/3.dashboard.png)
+![Dashboard](expense-tracker/screenshots/3.dashboard.png)
 
 ---
 
